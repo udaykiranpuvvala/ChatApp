@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BandarSBO Chat</string>
+    <string name="welcome">Salamat Datang Di Live Chat</string>
+    <string name="from_where_you_know_this_website">Dari mana anda tau website ini?</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="linked">LinkedIn</string>
+    <string name="twitter">Twitter</string>
+    <string name="start_chat">Mulai Obrolan</string>
+    <string name="ok">ok</string>
+    <string name="alert_dialog_setting">Settings</string>
+    <string name="splash_text">Salah seorang perwakilan kami akan segera menghubungi anda. \nanda nomor 1 dalam antrean. \nwaktu tunggu anda sekitar 1 menit. \nterima kasih atas kesabaran anda</string>
+    <string name="back_to_exit_chat">Tekan kembali untuk keluar dari obrolan</string>
+    <string name="okay">Baik</string>
+    <string name="no">Tidak</string>
+    <string name="yes">Ya</string>
+    <string name="cancel">Batalkan</string>
+    <string name="close_app">Tutup obrolan</string>
+    <string name="are_u_sure_close_application">Anda yakin ingin menutup aplikasi</string>
+    <string name="pin_bbm">Pin BBM : GADUNQQ</string>
+</resources>
